@@ -6,7 +6,7 @@
 
 # Etapa 2:
 
-![MER](modelo logico.png)
+![MER](modelo_logico.png)
 
 [Scritps](ScriptEtapa2.sql)
 

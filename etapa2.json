@@ -1,0 +1,44 @@
+{
+  "funcionarios": [
+    {
+      "Nome": "João Silva",
+      "Endereco": "Rua A, 123",
+      "Email": "joao.silva@email.com",
+      "Cargo": "Analista de Marketing",
+      "Jornada": "40 horas/semana",
+      "Salario": 5000.00
+    },
+    {
+      "Nome": "Maria Oliveira",
+      "Endereco": "Avenida B, 456",
+      "Email": "maria.oliveira@email.com",
+      "Cargo": "Desenvolvedora Web",
+      "Jornada": "40 horas/semana",
+      "Salario": 6000.00
+    },
+    {
+      "Nome": "Carlos Santos",
+      "Endereco": "Travessa C, 789",
+      "Email": "carlos.santos@email.com",
+      "Cargo": "Gerente de Vendas",
+      "Jornada": "45 horas/semana",
+      "Salario": 8000.00
+    },
+    {
+      "Nome": "Ana Souza",
+      "Endereco": "Alameda D, 987",
+      "Email": "ana.souza@email.com",
+      "Cargo": "Analista Financeira",
+      "Jornada": "35 horas/semana",
+      "Salario": 5500.00
+    },
+    {
+      "Nome": "Lucas Pereira",
+      "Endereco": "Praça E, 654",
+      "Email": "lucas.pereira@email.com",
+      "Cargo": "Engenheiro de Software",
+      "Jornada": "40 horas/semana",
+      "Salario": 7000.00
+    }
+  ]
+}

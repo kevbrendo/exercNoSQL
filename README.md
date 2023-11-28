@@ -20,4 +20,6 @@ Animais:
 Jogos:
 ![Jogos](firestoreJogos.png)
 
+![ConsultaJogos](consultaFireStoreJogos.png)
+
 
